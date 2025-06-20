@@ -46,3 +46,9 @@ flutter pub get
 ```bash
 flutter run
 ```
+# API Key
+You will need an API key from your weather data provider.
+Example: https://openweathermap.org/api
+
+- Add it in your config
+-- WEATHER_API_KEY=your_api_key_here
