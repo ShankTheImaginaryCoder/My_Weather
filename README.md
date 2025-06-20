@@ -34,6 +34,7 @@ my_weather/
 # Setup Instruction
 ---
 ## Clone the Repository
+```bash
 git clone https://github.com/YourGitHubUsername/My_Weather.git
 cd My_Weather
-
+```
