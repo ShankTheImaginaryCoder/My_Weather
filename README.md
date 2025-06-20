@@ -33,8 +33,16 @@ my_weather/
 ```
 # Setup Instruction
 ---
-## Clone the Repository
+- ## Clone the Repository
 ```bash
 git clone https://github.com/YourGitHubUsername/My_Weather.git
 cd My_Weather
+```
+- ##  Install dependencies
+```bash
+flutter pub get
+```
+- ##  Run the app
+```bash
+flutter run
 ```
