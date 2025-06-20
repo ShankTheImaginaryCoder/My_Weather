@@ -55,7 +55,7 @@ Example: https://openweathermap.org/api
 --> WEATHER_API_KEY=your_api_key_here
 ---
 # Contributing
-Pull requests are welcome! Please open an issue to discuss changes first.
+- Pull requests are welcome! Please open an issue to discuss changes first.
 ---
-#Author
+# Author
 Developed by Shashank Yadav
