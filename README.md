@@ -1,16 +1,32 @@
-# my_weather
+# 🌤️ My Weather App
 
-A new Flutter project.
+The **My Weather App** is a lightweight application designed to provide real-time weather updates for any location. It features a clean interface, easy-to-use search, and displays key weather details such as temperature, humidity, and conditions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Search for current weather by city or location
+- 🌡️ Display temperature, humidity, and weather conditions
+- ☁️ Support for different weather icons and descriptions
+- 🔄 Refresh to get the latest data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend:** [Flutter] / [React Native] / [Your Tech Here]
+- **API:** OpenWeatherMap API (or other provider)
+
+*(Update the stack above with your actual technology — tell me if you want me to write it specifically for Flutter, React, or another framework!)*
+
+---
+
+## 📁 Folder Structure
+
+```bash
+my_weather/
+├── lib/ (or src/)      # Main application source code
+├── assets/             # Icons, images
+├── README.md           # Project overview (this file)
+└── pubspec.yaml / package.json  # Dependencies
