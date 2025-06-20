@@ -30,4 +30,10 @@ my_weather/
 ├── assets/             # Icons, images
 ├── README.md           # Project overview (this file)
 └── pubspec.yaml / package.json  # Dependencies 
-# Setup Instructions
+```
+# Setup Instruction
+---
+## Clone the Repository
+git clone https://github.com/YourGitHubUsername/My_Weather.git
+cd My_Weather
+
