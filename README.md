@@ -29,4 +29,5 @@ my_weather/
 ├── lib/ (or src/)      # Main application source code
 ├── assets/             # Icons, images
 ├── README.md           # Project overview (this file)
-└── pubspec.yaml / package.json  # Dependencies
+└── pubspec.yaml / package.json  # Dependencies 
+# Setup Instructions
